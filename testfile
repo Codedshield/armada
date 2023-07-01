@@ -1,1 +1,4 @@
 all test
+all black
+scripting hack
+
